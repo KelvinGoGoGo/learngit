@@ -1,0 +1,6 @@
+#!/bin/bash
+function h1(){
+    echo hello
+    echo "hello yc"
+}
+h1
